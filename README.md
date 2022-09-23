@@ -1,4 +1,4 @@
-# News Articles Sentiment Analysis & Topic Modelling
+# News Articles Sentiment Analysis & Topic Modeling
 ## Overview of Project
 Throughout history, news plays an important role in our daily life. People obtain information
 through various media and news sites and get to know topics they are interested in or notable
