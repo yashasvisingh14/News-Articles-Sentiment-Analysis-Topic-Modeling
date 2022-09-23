@@ -15,6 +15,6 @@ The goals of our project are mainly divided into five parts, which are data gath
 data-preprocessing, exploratory data analysis, sentiment analysis, and topic modeling.
 
 ## Dataset Resources
-https://www.breitbart.com/
-https://www.foxnews.com/
+https://www.breitbart.com/ \
+https://www.foxnews.com/ \
 https://www.newsmax.com/
