@@ -3,7 +3,7 @@
 Throughout history, news plays an important role in our daily life. People obtain information
 through various media and news sites and get to know topics they are interested in or notable
 information that they need to pay attention to. New media companies focus on delivering news to
-either the general public or the target public. In our project, I got data from three new sites
+either the general public or the target public. In the project, I got data from three new sites
 which are Breitbart News, Fox News, and Newsmax. All three news media companies deliver
 their news to the same target public. Fox News is one of the biggest news media companies in
 the United States. Breitbart and Newsmax are smaller companies compared to Fox News. We are
