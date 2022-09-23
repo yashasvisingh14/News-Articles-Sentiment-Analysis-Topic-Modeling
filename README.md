@@ -18,3 +18,6 @@ data-preprocessing, exploratory data analysis, sentiment analysis, and topic mod
 https://www.breitbart.com/ \
 https://www.foxnews.com/ \
 https://www.newsmax.com/
+
+##Poster
+![POSTER NLP](https://user-images.githubusercontent.com/64837491/191896258-a65899af-bfa0-40f0-8bb6-7824578bfac4.jpg)
